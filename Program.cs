@@ -102,7 +102,7 @@ namespace Hoja_1._2_ejercicio_2
 
                 }
                 //parte ordenados y otra desaordenad, ordenarla
-                //
+                //buenos dias Claudia
 
             }
         }
